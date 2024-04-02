@@ -6,13 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-<<<<<<< Updated upstream
-      "cwd": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1",
-      "program": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1/build/Debug/outDebug"
-=======
-      "cwd": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1/polynomial",
-      "program": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1/polynomial/build/Debug/outDebug"
->>>>>>> Stashed changes
+      "cwd": ".",
+      "program": "build/Debug/outDebug"
     }
   ]
 }
