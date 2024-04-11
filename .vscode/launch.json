@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1/다항식",
-      "program": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1/다항식/build/Debug/outDebug"
+      "cwd": "/Users/khantkoko1999/Downloads",
+      "program": "/Users/khantkoko1999/Downloads/build/Debug/outDebug"
     }
   ]
 }
