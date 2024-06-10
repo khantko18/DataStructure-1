@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1/연결리스트",
-      "program": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1/연결리스트/build/Debug/outDebug"
+      "cwd": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1/연결리스트2",
+      "program": "/Users/khantkoko1999/Documents/GitHub/DataStructure-1/연결리스트2/build/Debug/outDebug"
     }
   ]
 }
